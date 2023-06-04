@@ -1,4 +1,4 @@
-# Dicionario de mulheres negras
+# Dicionário de mulheres negras
 
 ## Projeto final do curso EuProgramo Front-End II da Proramaria.
 
